@@ -55,27 +55,27 @@
 ## 대학교를 다니면서 배운 전공 과목과 Repository
 
 ### 2016년
-|학년|학기|강의명|저장소|비고|
+|학년|학기|강의명|비고|저장소|
 |----|----|----|----|----|
-|1|1|유헬스기초프로그래밍1|https://github.com/jaeseonglee/1-1-Eclipse-File|java 프로그래밍|
-|1|2|유헬스기초프로그래밍1|https://github.com/jaeseonglee/1-2-Eclipse-File|java 프로그래밍|
+|1|1|유헬스기초프로그래밍1|java 프로그래밍|https://github.com/jaeseonglee/1-1-Eclipse-File|
+|1|2|유헬스기초프로그래밍2|java 프로그래밍|https://github.com/jaeseonglee/1-2-Eclipse-File|
 ||||||
 
 
 ### 2019년
 ||||||
 |----|----|----|----|----|
-|2|1|C 프로그래밍|https://github.com/jaeseonglee/2-1-C|C |
-|2|1|영상처리프로그래밍|https://github.com/jaeseonglee/2-1-Digital-Image-Processing|openCV와 C++ 사용 프로젝트|
-|2|1|파이썬 과학 프로그래밍 기초|https://github.com/jaeseonglee/2-1-Python|python의 tkinter 사용 프로젝트|
+|2|1|C 프로그래밍|C|https://github.com/jaeseonglee/2-1-C|
+|2|1|영상처리프로그래밍|openCV와 C++ 사용 프로젝트|https://github.com/jaeseonglee/2-1-Digital-Image-Processing|
+|2|1|파이썬 과학 프로그래밍 기초|python의 tkinter 사용 프로젝트|https://github.com/jaeseonglee/2-1-Python|
 |2|1|이산구조론|-|-|
 |2|1|논리설계 및 실험|-|-|
 ||||||
 
 ||||||
 |----|----|----|----|----|
-|2|2|C++ 프로그래밍|https://github.com/jaeseonglee/2-2-Cpp|C++|
-|2|2|자료구조|https://github.com/jaeseonglee/2-2-Data-Structure|java 실습을 통한 자료구조 강의|
+|2|2|C++ 프로그래밍|C++|https://github.com/jaeseonglee/2-2-Cpp|
+|2|2|자료구조|java 실습을 통한 자료구조 강의|https://github.com/jaeseonglee/2-2-Data-Structure|
 |2|2|데이터베이스|-|-|
 |2|2|컴퓨터구조|-|-|
 |2|2|소프트웨어세미나|-|-|
@@ -84,8 +84,8 @@
 ### 2020년
 ||||||
 |----|----|----|----|----|
-|3|1|윈도우 프로그래밍|https://github.com/jaeseonglee/3-1-Csharp|C#| 
-|3|1|멀티미디어개론|https://github.com/jaeseonglee/3_1_MultiMedia|멀티미디어개론|
+|3|1|윈도우 프로그래밍|C#|https://github.com/jaeseonglee/3-1-Csharp|
+|3|1|멀티미디어개론|멀티미디어에 대해 배웠던 강의|https://github.com/jaeseonglee/3_1_MultiMedia|
 |3|1|운영체제|-|-|
 |3|1|소프트웨어공학|-|-|
 |3|1|정보보호론|-|-|
@@ -95,20 +95,20 @@
 
 ||||||
 |----|----|----|----|----|
-|3|2|클라우드 컴퓨팅|https://github.com/jaeseonglee/Cloud_Computing_Term_Project|python과 AWS를 사용한 팀 프로젝트|
-|3|2|오픈소스 SW 개발도구 및 활용|https://github.com/jaeseonglee/My_First_Resume|이 강의를 통해 마크다운 언어 지식 습득|
-|3|2|알고리즘|https://github.com/jaeseonglee/3_2_Algorithm|java 실습을 통한 알고리즘 강의|
-|3|2|텍스트 정보처리|https://github.com/jaeseonglee/3_2_Text-Infomation-Programming|python 실습을 colab에서 진행한 강의|
-|3|2|빅데이터개론|-|저장소는 당시 사용하던 csv 파일들을 등록|
-|3|2|시스템 프로그래밍|-|리눅스 OS에서 C 실습을 통한 강의|
+|3|2|클라우드 컴퓨팅|python과 AWS를 사용한 팀 프로젝트|https://github.com/jaeseonglee/Cloud_Computing_Term_Project|
+|3|2|오픈소스 SW 개발도구 및 활용|이 강의를 통해 마크다운 언어 지식 습득|https://github.com/jaeseonglee/My_First_Resume|
+|3|2|알고리즘|java 실습을 통한 알고리즘 강의|https://github.com/jaeseonglee/3_2_Algorithm|
+|3|2|텍스트 정보처리|python 실습을 colab에서 진행한 강의|https://github.com/jaeseonglee/3_2_Text-Infomation-Programming|
+|3|2|빅데이터개론|저장소는 당시 사용하던 csv 파일들을 등록|-|
+|3|2|시스템 프로그래밍|리눅스 OS에서 C 실습을 통한 강의|-|
 |3|2|임베디드 시스템|-|-|
 ||||||
 
 ### 2021년
 ||||||
 |----|----|----|----|----|
-|4|1|빅데이터 캡스톤 디자인|https://github.com/jaeseonglee/BigData_Capstone_Design|졸업 필수 강의|
-|4|1|웹 프로그래밍|https://github.com/jaeseonglee/4_1_Web_Programming|HTML,css,js를 배우는 중|
+|4|1|빅데이터 캡스톤 디자인|졸업 필수 강의|https://github.com/jaeseonglee/BigData_Capstone_Design|
+|4|1|웹 프로그래밍|HTML,css,js를 배우는 중|https://github.com/jaeseonglee/4_1_Web_Programming|
 |4|1|인공지능|-|-|
 |4|1|데이터베이스 시스템|-|-|
 |4|1|소프트웨어특강1|-|-|
