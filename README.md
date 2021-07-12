@@ -34,12 +34,12 @@
 
 ### 지금까지 사용해본 프로그래밍 언어
 - java
-- `C` (가장 선호하는 프로그래밍 언어)
+- C
 - C++
 - C#
 - python
 - R
-- HTML, CSS
+- HTML, CSS, JavaScript
 - SQL
 
 등이 있습니다.
@@ -107,8 +107,8 @@
 ### 2021년
 ||||||
 |----|----|----|----|----|
-|4|1|빅데이터 캡스톤 디자인|졸업 필수 강의|https://github.com/jaeseonglee/BigData_Capstone_Design|
-|4|1|웹 프로그래밍|HTML,css,js를 배우는 중|https://github.com/jaeseonglee/4_1_Web_Programming|
+|4|1|빅데이터 캡스톤 디자인|졸업 필수 강의, Animal Care System 이라는 주제로 진행|https://github.com/jaeseonglee/BigData_Capstone_Design|
+|4|1|웹 프로그래밍|HTML, css, javascript|https://github.com/jaeseonglee/4_1_Web_Programming|
 |4|1|인공지능|-|-|
 |4|1|데이터베이스 시스템|-|-|
 |4|1|소프트웨어특강1|-|-|
